@@ -39,4 +39,10 @@ int main(){
     free(vec);
 
     return 0;
+
+
+    
+    
+    
+    
 }
