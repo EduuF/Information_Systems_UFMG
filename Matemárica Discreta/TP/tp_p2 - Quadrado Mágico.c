@@ -22,7 +22,7 @@ int main(){
         odd_matrix(matriz, n, 1, n*n);
     } else { //caso seja uma matriz par
         if(n%4 != 0){ //quadrado par simples
-
+            //FALTA IMPLEMENTAR PARA QUADRADO PAR SIMPLES
         }else{
             int* A = &matriz[0][0]; //ponto de interesse da matriz
             int* B = &matriz[0][n-1];   //ponto de interesse da matriz
