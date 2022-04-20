@@ -1,2 +1,2 @@
 # SI_UFMG
-Repositório para trabalhos do curso de Sistemas de Informação da UFMG
+Repository for my Bachelor Degree in Information Systems by UFMG - BR
